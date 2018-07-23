@@ -1,8 +1,8 @@
 *
 !.gitignore
+!.appveyor.yml
 !.travis.yml
 !gh_rsa.enc
-!appveyor.yml
 !LICENSE
 !Cargo.toml
 !rustfmt.toml
