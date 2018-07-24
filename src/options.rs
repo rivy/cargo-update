@@ -15,7 +15,8 @@
 use self::super::ops::{PackageFilterElement, ConfigOperation};
 use semver::{VersionReq as SemverReq, Version as Semver};
 use clap::{self, AppSettings, SubCommand, App, Arg};
-use std::env::{self, home_dir};
+use std::env::{self};
+use dirs::{home_dir};
 use array_tool::vec::Uniq;
 use std::path::PathBuf;
 use std::str::FromStr;
