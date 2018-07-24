@@ -1,0 +1,1 @@
+{"name":"quote","vers":"0.6.4","deps":[{"name":"proc-macro2","req":"^0.4.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b71f9f575d55555aa9c06188be9d4e2bfc83ed02537948ac0d520c24d0419f1a","features":{"default":["proc-macro"],"proc-macro":["proc-macro2/proc-macro"]},"yanked":false,"links":null}

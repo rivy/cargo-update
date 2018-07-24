@@ -1,0 +1,1 @@
+{"name":"pkg-config","vers":"0.3.12","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a52e4dbc8354505ee07e484ab07127e06d87ca6fa7f0a516a2b294e5ad5ad16","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"lazy_static","vers":"1.0.2","deps":[{"name":"spin","req":"^0.4.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb497c35d362b6a331cfd94956a07fc2c78a4604cdbee844a81170386b996dd3","features":{"nightly":[],"spin_no_std":["nightly","spin"]},"yanked":false,"links":null}

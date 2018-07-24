@@ -21,3 +21,5 @@
 !tests/**
 !test-data
 !test-data/**
+!vendor
+!vendor/**

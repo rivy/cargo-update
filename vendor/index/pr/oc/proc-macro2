@@ -1,0 +1,1 @@
+{"name":"proc-macro2","vers":"0.4.9","deps":[{"name":"unicode-xid","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cccdc7557a98fe98453030f077df7f3a042052fae465bb61d2c2c41435cfd9b6","features":{"nightly":["proc-macro"],"proc-macro":[],"default":["proc-macro"]},"yanked":false,"links":null}

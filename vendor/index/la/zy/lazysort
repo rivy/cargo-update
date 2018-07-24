@@ -1,0 +1,1 @@
+{"name":"lazysort","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183ec8cdfed14090d032b5498f10a38b91a56dff39573cc75e5c72c2c3de900a","features":{"nightly":[]},"yanked":false}
