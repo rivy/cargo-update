@@ -6,6 +6,8 @@
 !LICENSE
 !Cargo.toml
 !rustfmt.toml
+!.cargo
+!.cargo/**
 !build.rs
 !cargo-install-update-manifest.rc
 !cargo-install-update.exe.manifest
